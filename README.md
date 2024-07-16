@@ -1,2 +1,3 @@
-# Analysis
-All scripts here are served for personal research and practice purpose, using different language and application. I'm not reponsible for any decisions made based on these analyses.
+# Stock Analysis for Fun
+
+I'm analyzing performance of some stocks using Python, to predict the future stock price movement, for fun 🥸
